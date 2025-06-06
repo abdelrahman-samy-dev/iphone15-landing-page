@@ -204,7 +204,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Abdelrahman Samy
+**[Abdelrahman Samy]**
 - GitHub: [Abdelrahman Samy Ali](https://github.com/abdelrahman-samy-dev)
 - LinkedIn: [Abdelrahman Samy](https://www.linkedin.com/in/abdelrahman-samy-ali/)
 
