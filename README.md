@@ -182,8 +182,8 @@ Experience the iPhone 15 Showcase in action! The live demo showcases all feature
 ### Mobile View
 ![Mobile Screenshot](./screenshots/mobile-view.png)
 
-### Features Section
-![Features Screenshot](./screenshots/features-section.png)
+### 3D section
+![3D Screenshot](./public/screenshots/3d-obj-one.png)(./public/screenshots/3d-obj-two.png)
 
 > *Screenshots showcase the responsive design and clean interface across different screen sizes*
 
