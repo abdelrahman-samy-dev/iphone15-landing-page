@@ -1,15 +1,14 @@
 {
-  "homepage": ".",
   "name": "apple_website",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
+  "homepage": "https://abdelrahman-samy-2023.github.io/iphone-15",
   "scripts": {
-    "homepage": "https://abdelrahman-samy-2023.github.io/iphone-15",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview",
+    "lint": "eslint .",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
