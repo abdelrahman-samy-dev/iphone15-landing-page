@@ -225,6 +225,6 @@ If you found this project helpful, please consider:
 ---
 
 <div align="center">
-  <p>Made with ❤️ and ☕ by developers, for developers</p>
-  <p>© 2024 iPhone 15 Showcase. All rights reserved.</p>
+  <p>Made with ❤️ by Abdelrahman Samy</p>
+  <p>© 2025 iPhone 15 Showcase. All rights reserved.</p>
 </div>
