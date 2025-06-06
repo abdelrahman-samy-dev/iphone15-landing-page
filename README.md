@@ -166,7 +166,7 @@ npm run preview
 
 ## 🎥 Live Demo
 
-**[🔗 View Live Demo](https://abdelrahman-samy-dev.github.io/iphone15-landing-page/)**
+**[🔗 View Live Demo](https://iphone15-landing-page-umber.vercel.app/)**
 
 Experience the iPhone 15 Showcase in action! The live demo showcases all features including:
 - Responsive design across different devices
